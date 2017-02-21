@@ -43,6 +43,11 @@ class ActionImpl extends SqlMapClientDaoSupport implements IAction {
     }
 
     @Override
+    public List queryAll() {
+        return null;
+    }
+
+    @Override
     public Person queryById(int id) {
         // TODO Auto-generated method stub
         return null;
