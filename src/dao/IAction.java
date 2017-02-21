@@ -13,5 +13,6 @@ public interface IAction {
     public boolean updatePerson(Person person);    //修改
     public Person queryById(int id);              //根据ID查询
     public List<Person> queryAllPerson();         //查询全部
-    public void test();     //添加测试方法
+
+    public List queryAll(); //查寻所有
 }
