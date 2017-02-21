@@ -17,7 +17,7 @@ public class Test {
     }
 
     public void print(){
-        System.out.println("修改打印方法");
+        System.out.println("修改打印方法!!!修改bugssssssss");
     }
 
     //获取信息
