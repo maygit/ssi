@@ -15,4 +15,7 @@ public class Test {
        IAction action = (IAction)context.getBean("ActionImpl");
         action.insertPerson(new Person(1,"huage",12));
     }
+
+    //获取信息
+    public void getAll(){}
 }
