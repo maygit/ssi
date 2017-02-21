@@ -16,6 +16,10 @@ public class Test {
         action.insertPerson(new Person(1,"huage",12));
     }
 
+    public void print(){
+        System.out.println("添加打印方法");
+    }
+
     //获取信息
     public void getAll(){}
 }
