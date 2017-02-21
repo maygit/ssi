@@ -20,6 +20,5 @@ public class Test {
         System.out.println("修改打印方法");
     }
 
-    //获取信息
-    public void getAll(){}
+
 }
