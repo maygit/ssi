@@ -13,7 +13,7 @@ public class Test {
         // TODO Auto-generated method stub
         ApplicationContext context=new ClassPathXmlApplicationContext("applicationContext.xml");
        IAction action = (IAction)context.getBean("ActionImpl");
-        action.insertPerson(new Person(1,"huage",12));
+        action.insertPerson(new Person(1,"huage",12));qqqq
     }
 
     public void print(){
