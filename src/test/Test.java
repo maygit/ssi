@@ -22,7 +22,4 @@ public class Test {
 
     //获取信息
     public void getAll(){}
-
-    //添加测试方法
-    public void test(){}
 }
